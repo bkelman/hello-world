@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+My name is Ben Kelman, an analyst at Deloitte. I live in Chicago and travel all over the US.
